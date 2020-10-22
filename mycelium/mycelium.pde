@@ -7,7 +7,7 @@ ArrayList newcells;
 PImage img;
 float food[][];
 
-String filename = "darkvador.jpeg";
+String filename = "florian-van-duyn-Dm-qxdynoEc-unsplash.jpg";
 boolean inverted = false; // true -> white background
 
 void setup()
